@@ -1,6 +1,11 @@
 * {
   box-sizing: border-box;
 }
+
+.row {
+  width: 100%;
+}
+
 .col-xs-12 {
   width: 100%;
   float: left;
@@ -10,9 +15,11 @@
   .col-sm-6, .col-sm-12 {
     float: left;
   }
+
   .col-sm-12 {
     width: 100%;
   }
+  
   .col-sm-6 {
     width: 50%;
   }
