@@ -7,6 +7,10 @@ html {
   padding: 10px;
 }
 
+h1 {
+  font-size: 1.75em;
+}
+
 .col-xs-12, .col-sm-6, .col-sm-12, .col-md-4 {
   padding: 15px;
   position: relative;
@@ -67,6 +71,7 @@ html {
 }
 
 .title > p {
+  font-size: 1.25em;
   font-weight: bold;
 }
 
