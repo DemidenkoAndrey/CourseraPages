@@ -3,6 +3,7 @@
 }
 
 .col-xs-12, .col-sm-6, .col-sm-12, .col-md-4 {
+  position: relative;
   padding-right: 15px;
   padding-left: 15px;
 }
