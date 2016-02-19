@@ -59,3 +59,7 @@
   width: 33.33333333%;
 
 }
+
+.clearfix {
+  clear: both;
+}
