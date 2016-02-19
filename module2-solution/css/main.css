@@ -12,6 +12,10 @@
   background-color: grey;
 }
 
+.block > p {
+  padding: 10px;
+}
+
 
 .row {
   width: 100%;
