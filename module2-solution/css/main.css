@@ -19,7 +19,7 @@ h1 {
 
 .block {
   background-color: #808080;
-  border: 1px solid #000000;
+  border: 1px solid #000;
   border-radius: 25px;
 }
 
@@ -56,8 +56,8 @@ h1 {
 }
 
 .title {
-  border-bottom: 1px #000000 solid;
-  border-left: 1px #000000 solid;
+  border-bottom: 1px #000 solid;
+  border-left: 1px #000 solid;
   border-bottom-left-radius: 25px;
   border-top-right-radius: 25px;
   float: right; 
@@ -79,7 +79,7 @@ h1 {
 
 .backround-color-purple {
   background-color: #800080;
-  color: #ffffff;
+  color: #fff;
 }
 
 .backround-color-green {
