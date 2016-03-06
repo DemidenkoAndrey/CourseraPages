@@ -1,1 +1,4 @@
-style.css
+.block {
+	background-color: grey
+	padding: 1px 20px;
+}
